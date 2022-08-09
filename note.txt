@@ -1,0 +1,5 @@
+MSRP: Gía đề nghị của nhà sản xuất Manufacturer's Suggested Retail Price
+COGS: Cost of GOODS SOLD = quantity * unit price
+Revenue : sale price
+Gross profit (profit) = revenue - COGS 
+Gross margin (gross profit margin, gross margin ratio, profit margin) = profit gross / COGS
